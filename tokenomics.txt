@@ -1,0 +1,22 @@
+Initial supply = 125.000.000 tokens
+80% - ICO (100.000.000)
+15% - Liquidity (18.750.000)
+5% - Team (6.250.000)
+
+Usecases:
+- Staking
+- Gouvernance
+- Charity
+- Buy NFTs to play OnChain-Game
+- Play OnChain-Casino
+
+ICO: 100.000.000 tokens
+price/token = 0.01$
+max buy/address = 1.000.000 tokens
+
+Staking:
+APY mare, scade cu timpul, din sapt in sapt
+dupa x sapt devine constant
+
+Charity:
+0.1% of every trx will monthly go to a charity chosen by the Holders
