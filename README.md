@@ -1,4 +1,4 @@
-This is Toma DeFI, a online DAO made for everything DeFi in one place:
+This is Investors Club, a online DAO made for everything DeFi in one place:
 
 1. Swaps
 2. Staking
@@ -9,4 +9,4 @@ This is Toma DeFI, a online DAO made for everything DeFi in one place:
 7. On-Chain Casino
 8. Charity
 
-It has it's own token, $TOMA that is used for the OnChain Game, The Casino and Gouvernance.
+It has it's own token, $VALUE that is used for the OnChain Game, The Casino and Gouvernance.
